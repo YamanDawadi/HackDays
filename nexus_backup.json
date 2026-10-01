@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": "1790833345574",
+      "title": "ai",
+      "priority": "Medium",
+      "completed": false
+    }
+  ],
+  "planner": [],
+  "study": [],
+  "notes": [],
+  "habits": [],
+  "goals": [],
+  "bookmarks": [],
+  "journal": [],
+  "focusMinutesTotal": 0,
+  "focusTimer": {
+    "remainingSeconds": 1500,
+    "endsAt": null
+  },
+  "settings": {
+    "theme": "dark",
+    "accent": "indigo"
+  }
+}
